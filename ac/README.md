@@ -1,0 +1,2 @@
+Most of the code here is written as a poc and never had a code rewrite :/
+Use at own risk, also note that this had a cleanup before going to github (removed hardcoded password and stuff) and is not tested after
